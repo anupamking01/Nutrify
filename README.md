@@ -7,7 +7,7 @@
 
 ## What's the goal?
 
-To build a [Pokédex for food](https://nutrifyaigrantapplication.com/)!
+To build a [AI_assistant for food](https://nutrifyaigrantapplication.com/)!
 
 To do so, we're going to need lots of food images...
 
