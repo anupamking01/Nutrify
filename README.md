@@ -45,7 +45,7 @@ As of: 15 March 2022
 
 Build food image collection app, need a way to store images at large scale, images: object storage (Google Storage), info about images: relational database (PostgreSQL).
 
-### Stage 2 (done, see: https://github.com/mrdbourke/nutrify/releases/tag/v0.1.3)
+### Stage 2 (done, see: https://github.com/anupamking01/Nutrify)
 
 Build small prototype computer vision app to take a photo of ~100 different types of foods and return back their nutrition information (this'll be done via a public nutrition API, if you know of one, please let me know).
 
