@@ -11,8 +11,6 @@ To build a [Pokédex for food](https://nutrifyaigrantapplication.com/)!
 
 To do so, we're going to need lots of food images...
 
-You can start uploading/labelling your food images via Nutrify's [Food Image Collector app](https://mrdbourke-nutrify-food-image-collector-oze8yr.streamlit.app/).
-
 
 **End goal:** take a photo of food an learn about it (nutrition information, where it's from, recipes, etc).
 
