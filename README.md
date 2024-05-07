@@ -4,9 +4,6 @@
 
 ## Updates
 
-* **18 Jan 2023** - Wrote a [blog post](https://www.mrdbourke.com/copying-teslas-data-engine-for-food-images) and made a [YouTube video](https://youtu.be/02b-1spzLzc) about Nutrify's data engine (the driving force behind making the FoodVision model better)
-
-[Sign up](https://forms.gle/8ye134pvgEKWJQHd6) for email updates.
 
 ## What's the goal?
 
@@ -16,7 +13,6 @@ To do so, we're going to need lots of food images...
 
 You can start uploading/labelling your food images via Nutrify's [Food Image Collector app](https://mrdbourke-nutrify-food-image-collector-oze8yr.streamlit.app/).
 
-Streaming progress on [Twitch](https://www.twitch.tv/mrdbourke)/making videos about it on YouTube.
 
 **End goal:** take a photo of food an learn about it (nutrition information, where it's from, recipes, etc).
 
@@ -66,10 +62,3 @@ Upgrade stage 1, 2, 3 to work with world's 100 most commonly eaten foods (start 
 ### Stage 5
 
 Repeat the above until almost every food you can eat is covered.
-
-## Log
-* 18 Jan 2022 - Nutrify iOS app well on the way, data engine for image classification well under way, full code coming soon
-* 14 Mar 2022 - added macronutrient details for ~100 foods, [see release notes](https://github.com/mrdbourke/nutrify/releases/tag/v0.1.3)
-* 17 Jan 2022 - cleaned up the data by removing duplicates/fixing some low performing classes ([see the update comment](https://github.com/mrdbourke/nutrify/discussions/32#discussioncomment-1980942))
-* 14 Jan 2022 - Nutrify can now identify 100 foods ([see release notes](https://github.com/mrdbourke/nutrify/releases/tag/v0.1.2))
-* 22 Dec 2021 - Nutrify can now identify 78 foods
